@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/android_templet_structure.iml" filepath="$PROJECT_DIR$/android_templet_structure.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcm_task.iml" filepath="$PROJECT_DIR$/fcm_task.iml" />
     </modules>
   </component>
 </project>
